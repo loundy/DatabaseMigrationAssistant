@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "DataMigrationReportsV2", "DataMigrationReportsV2\DataMigrationReportsV2.rptproj", "{2B076817-C9A8-4677-A404-2D043AD3FC7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B076817-C9A8-4677-A404-2D043AD3FC7D}.Debug|Default.ActiveCfg = Debug
+		{2B076817-C9A8-4677-A404-2D043AD3FC7D}.Debug|Default.Build.0 = Debug
+		{2B076817-C9A8-4677-A404-2D043AD3FC7D}.Debug|Default.Deploy.0 = Debug
+		{2B076817-C9A8-4677-A404-2D043AD3FC7D}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{2B076817-C9A8-4677-A404-2D043AD3FC7D}.DebugLocal|Default.Build.0 = DebugLocal
+		{2B076817-C9A8-4677-A404-2D043AD3FC7D}.Release|Default.ActiveCfg = Release
+		{2B076817-C9A8-4677-A404-2D043AD3FC7D}.Release|Default.Build.0 = Release
+		{2B076817-C9A8-4677-A404-2D043AD3FC7D}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

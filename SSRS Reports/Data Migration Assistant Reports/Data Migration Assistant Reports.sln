@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "DMAReports", "DMAReports\DMAReports.rptproj", "{DF056BC5-3FE0-4984-9002-4AD86B642B9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF056BC5-3FE0-4984-9002-4AD86B642B9C}.Debug|Default.ActiveCfg = Debug
+		{DF056BC5-3FE0-4984-9002-4AD86B642B9C}.Debug|Default.Build.0 = Debug
+		{DF056BC5-3FE0-4984-9002-4AD86B642B9C}.Debug|Default.Deploy.0 = Debug
+		{DF056BC5-3FE0-4984-9002-4AD86B642B9C}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{DF056BC5-3FE0-4984-9002-4AD86B642B9C}.DebugLocal|Default.Build.0 = DebugLocal
+		{DF056BC5-3FE0-4984-9002-4AD86B642B9C}.Release|Default.ActiveCfg = Release
+		{DF056BC5-3FE0-4984-9002-4AD86B642B9C}.Release|Default.Build.0 = Release
+		{DF056BC5-3FE0-4984-9002-4AD86B642B9C}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
